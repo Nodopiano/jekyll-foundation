@@ -3,9 +3,8 @@ permalink: "/"
 layout: index
 title: Homepage
 sections:
-- hero:
-    title: Test hero title
-    description: test
+- hero: {}
+- hero: {}
 ---
 
 Welcome to your new Jekyll site.
